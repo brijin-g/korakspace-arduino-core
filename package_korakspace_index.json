@@ -8,12 +8,12 @@
                                            {
                                                "name":  "KORAKSPACE RISC-V FPGA Boards (Developer Preview)",
                                                "architecture":  "riscv",
-                                               "version":  "0.3.0-dev",
+                                               "version":  "0.3.0",
                                                "category":  "Contributed",
-                                               "url":  "https://github.com/brijin-g/korakspace-arduino-core/releases/download/v0.3.0-dev/korakspace-riscv-0.3.0-dev-fixed.zip",
-                                               "archiveFileName":  "korakspace-riscv-0.3.0-dev-fixed.zip",
-                                               "checksum":  "SHA-256:61ecca45498d8e09305d7169e39f6ac9eb438d90d5030eec807a0b064bd72439",
-                                               "size":  "16431",
+                                               "url":  "https://github.com/brijin-g/korakspace-arduino-core/releases/download/v0.3.0/korakspace-riscv-0.3.0.zip",
+                                               "archiveFileName":  "korakspace-riscv-0.3.0.zip",
+                                               "checksum":  "SHA-256:b57f0b9e9c4a9217d0e3931eb5d20fff20574b068dff90cba0a970b724e419cb",
+                                               "size":  "16427",
                                                "boards":  [
                                                               {
                                                                   "name":  "Korakspace DE0-Nano (DEV Serial)"
